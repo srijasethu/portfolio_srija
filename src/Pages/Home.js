@@ -59,7 +59,7 @@ const Home = () => {
                           </li>
                           <li className="wow fadeIn" data-wow-delay=".8s">
                             <a
-                              href="https://twitter.com/sanajitjana01?ref=https://sanajitjana.github.io"
+                              href="https://x.com/Srijasethu"
                               target="newtab"
                             >
                               <i
