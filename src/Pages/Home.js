@@ -58,10 +58,7 @@ const Home = () => {
                             </a>
                           </li>
                           <li className="wow fadeIn" data-wow-delay=".8s">
-                            <a
-                              href="https://x.com/Srijasethu"
-                              target="newtab"
-                            >
+                            <a href="https://x.com/Srijasethu" target="newtab">
                               <i
                                 className="fa fa-twitter"
                                 aria-hidden="true"
@@ -195,13 +192,9 @@ const Home = () => {
                         I’m Srija, a Full Stack Developer and Data Analyst from
                         India. I love creating smooth, responsive web
                         applications and using data to build smarter solutions.
-                        I work with React, Vite, Tailwind CSS, Framer Motion,
-                        Python, and SQL, and I approach every project with
-                        focus, clarity, and creativity. I’m also an active
-                        member of StartupTN, founder of Tautology, and
+                        I am an active member of StartupTN, founder of Tautology, and
                         co-founder of SkillConnect and Fashionista. Some of my
-                        key projects include HelpHive, RouteMate, an AI Quiz
-                        Preparation System, a modern React portfolio, and
+                        key projects include HelpHive, RouteMate, a modern React portfolio, and
                         several practical Python mini projects.Glad to have you{" "}
                         <a className="underline2" href="#contact">
                           here.
@@ -211,7 +204,7 @@ const Home = () => {
                       </p>
                       <a
                         className="about-link-1"
-                        href="assets/cv/sanajit-jana-profile.pdf"
+                        href="assets/cv/srija-resume.pdf"
                         target="_blank"
                       >
                         See Resume
@@ -234,7 +227,7 @@ const Home = () => {
                           className="fa fa-pencil-square-o stat-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3 className="Count">32+</h3>
+                        <h3 className="Count">5+</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>Project Completed</p>
@@ -246,10 +239,10 @@ const Home = () => {
                           className="fa fa-crop stat-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3 className="Count">25+</h3>
+                        <h3 className="Count">3⭐</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>UI/UX Design Done</p>
+                        <p>hackerank</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6">
@@ -258,7 +251,7 @@ const Home = () => {
                           className="fa fa-bolt stat-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3 className="Count">15+</h3>
+                        <h3 className="Count">5+</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>Website Created</p>
@@ -270,10 +263,10 @@ const Home = () => {
                           className="fa fa-coffee stat-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3 className="Count">100+</h3>
+                        <h3 className="Count">10+</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>Cups Coffee Taken</p>
+                        <p>Hackathon</p>
                       </div>
                     </div>
                   </div>
@@ -304,17 +297,12 @@ const Home = () => {
               <div className="row love-row wow fadeIn">
                 <div className="col-md-6">
                   <div className="skill-details text-left">
-                    <p>
-                      I specialize in backend development, with a strong focus
-                      on architecting robust and efficient server-side
-                      applications and APIs. My expertise includes designing and
-                      implementing scalable solutions that effectively manage
-                      complex business logic, data operations, and integration
-                      requirements. I am passionate about leveraging
-                      cutting-edge technologies to deliver high-performance and
-                      reliable backend systems that meet the evolving needs of
-                      modern applications.
-                    </p>
+                    <h2>
+                      Showcasing my technical strengths across full-stack
+                      development, data analysis, and DevOps,highlighting
+                      mastery in Java, Python, front-end technologies, React,
+                      analytics tools, and Git/Docker.
+                    </h2>
                   </div>
                 </div>
                 <div className="col-md-6">
@@ -442,7 +430,7 @@ const Home = () => {
                 <div className="row main-row wow fadeIn">
                   <div className="col-md-12">
                     <div className="main-title text-center">
-                      <h3>Working Experience</h3>
+                      <h3>Credentials</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
@@ -464,21 +452,21 @@ const Home = () => {
                         ></i>
                         <h3>
                           <a
-                            href="https://patelgtech.com?ref=https://sanajitjana.github.io"
+                            href="https://drive.google.com/file/d/18FlkmVjWtTN-TnxpKHJnN81o8BleCF17/view?usp=drivesdk"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ color: "#4d4d4d" }}
                           >
-                            Patel G Tech LLP
+                            My first Internship
                           </a>
                         </h3>
-                        <h4>Repub Member</h4>
-                        <h2>2019-2020</h2>
+                        <h3>Inetz technologies</h3>
+                        <h2>chennai</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          During my internship at PATEL G TECH LLP, I
-                          contributed as a member of the Republication Team.
+                          My first step into the tech world—an internship where
+                          I connected my learning to real product development.
                         </p>
                       </div>
                     </div>
@@ -493,21 +481,22 @@ const Home = () => {
                         ></i>
                         <h3>
                           <a
-                            href="https://uaguria.com?ref=https://sanajitjana.github.io"
+                            href="https://drive.google.com/file/d/15vlyF3sX0h24Us1nqoZaM7VsU9qY7QSS/view?usp=drivesdk"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ color: "#4d4d4d" }}
                           >
-                            Uaguria Software
+                            NPTEL Certified
                           </a>
                         </h3>
-                        <h4>Web Developer</h4>
-                        <h2>2020-2022</h2>
+                        <h3>Internet of Things</h3>
+                        <h2>Interdisplinary</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          At Uaguria Software, I served as a web developer and
-                          IT consultant, contributing with versatility.
+                          Certified by NPTEL in IoT, covering sensors,
+                          connectivity, data flow, and real-world IoT
+                          applications.
                         </p>
                       </div>
                     </div>
@@ -520,14 +509,23 @@ const Home = () => {
                           className="fa fa-building exp-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Mplify Tech</h3>
-                        <h4>Software Developer</h4>
-                        <h2>2023-Present</h2>
+                        <h3>
+                          <a
+                            href="https://drive.google.com/file/d/1ZfVr-47x-hUvzLOtXb7WwBz3sHFbzWck/view?usp=drivesdk"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            style={{ color: "#4d4d4d" }}
+                          >
+                            IAENG Member
+                          </a>
+                        </h3>
+                        <h3>International Association</h3>
+                        <h2>2025-PRESENT</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          At Mplify Tech, I serve as a Software Developer,
-                          innovating and enhancing software solutions.
+                          Being an IAENG member helps me stay connected, learn,
+                          and grow with fellow engineers.
                         </p>
                       </div>
                     </div>
@@ -1133,7 +1131,7 @@ const Home = () => {
                   <div className="row">
                     <div className="col-md-12 col-sm-12">
                       <div className="main-title text-center wow fadeIn">
-                        <h3>Contact Me</h3>
+                        <h2>Let's Connect</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
@@ -1318,7 +1316,7 @@ const Home = () => {
                       <div class="map-wrap">
                         <iframe
                           title="google-maps"
-                          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3911.6737502593433!2d77.83171349999996!3d11.3585233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba964017038dfe3%3A0xd5a68d71e9c1aec7!2sK%20S%20R%20College%20of%20Engineering!5e0!3m2!1sen!2sin!4v1763923161446!5m2!1sen!2sin"
+                          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63188.97635576507!2d77.37383209609222!3d8.17138797825084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b04f0dfc0ddc7b7%3A0x809a9e32a95d3ed1!2sNagercoil%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1763966207763!5m2!1sen!2sin"
                           width="100%"
                           height="450"
                           style={{ border: "0" }}

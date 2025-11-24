@@ -9,13 +9,13 @@ function Footer() {
         <div className="about-social-icon text-center">
           <ul className="about-social">
             <li className="wow fadeIn" data-wow-delay=".8s">
-              <a href="https://twitter.com/sanajitjana01" target="newtab">
+              <a href="" target="newtab">
                 <i className="fa fa-twitter" aria-hidden="true"></i>
               </a>
             </li>
             <li className="wow fadeIn" data-wow-delay=".6s">
               <a
-                href="https://www.linkedin.com/in/sanajitjana01"
+                href="https://www.linkedin.com/in/srija-sethu-r-s-b64188328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                 target="newtab"
               >
                 <i className="fa fa-linkedin" aria-hidden="true"></i>
@@ -28,7 +28,7 @@ function Footer() {
             </li>
             <li className="wow fadeIn" data-wow-delay=".4s">
               <a
-                href="https://www.instagram.com/sanajitjana01/"
+                href="https://www.instagram.com/_zri.i_?igsh=bzBzZW9ldzIxZjll"
                 target="newtab"
               >
                 <i className="fa fa-instagram" aria-hidden="true"></i>
